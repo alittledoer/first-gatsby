@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer>
           {/* <br /> */}
-          <h4>Built with love & respect as a quick tech prototype. Music rights and entire video ownership is with Shemaroo Music.</h4>
+          <h4>Built with love & respect as a quick tech prototype. Music rights and entire video ownership is with YouTube Music Owner.</h4>
         </footer>
       </div>
     </>

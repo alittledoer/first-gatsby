@@ -6,7 +6,7 @@ import CountryFirst from "../components/countryfirst"
 
 const motivationVideo = {
   title: "Vande Matarm",
-  clipSrc: "WfqMmypbACg"
+  clipSrc: "3N4SRohMoEg"
 }
 
 const IndexPage = () => (
